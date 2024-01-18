@@ -1,5 +1,7 @@
 # Non-Linear Optimization Project: Invasions and Popularity
 
+This was the second homework for an optimization course at UC3M.
+
 This project delves into two distinct non-linear optimization challenges, showcasing the versatility of mathematical modeling. The project is divided into two main parts:
 
 ## Part 1: Plan to Invade China
